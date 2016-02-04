@@ -1,0 +1,24 @@
+/*components */
+.site-header {
+    border-top: 5px solid #c52d2f;
+    border-bottom: 0;
+    min-height: 56px;
+    position: relative;
+    background-color:#020202;
+    
+}
+.site-title,.site-nav,.site-nav .page-link{
+	color:#EDEDED !important;
+}
+
+
+
+
+footer{
+background-color:#020202;
+
+}
+.footer-col,.footer-col span{
+color:#dddddd;
+
+}
