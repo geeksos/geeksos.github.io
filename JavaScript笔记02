@@ -1,0 +1,14 @@
+<article class="post" itemscope itemtype="http://schema.org/BlogPosting">
+ 
+              <header class="post-header">
+ 
+                  <p class="post-meta"><time datetime="2016年2月4日" itemprop="datePublished">2016年2月4日</time></p>
+              </header>
+ 
+              <div class="post-content" itemprop="articleBody">
+                  <h1>JavaScript笔记02</h1>
+<p>这是个<b>测试</b>。</p>
+ 
+              </div>
+ 
+</article>
